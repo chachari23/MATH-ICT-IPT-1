@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head><title>r&f</title></head>
+<body>
+<body background="C:\Users\zacha\OneDrive\Desktop\MATH ICT PT\compute-ea4c57a4.png">
+<p style="font-size:60px; color: white; text-align:center";><font face="tahoma"><b>Relation And Function</p>
+<p style="font-size:20px;color: white;"align="justify"><font face="arial"> A relation is any set of ordered pairs. The set
+of all x-values is called the domain of the
+relation. The set of all y-values is called the
+range of the relation.</p> <p style="font-size:20px;color: white;"align="justify"><font face="arial"> A function is a special type of relation
+which describes that there should be
+only one output for each input or every
+x-value should be associated with only
+one y-value.</p>
+<hr><hr>
+<p style="font-size:40px; color: white; text-align:center";><font face="tahoma"><b>Examples</p>
+<p style="font-size:30px; color: white; text-align:left";><font face="arial"><b>One-to-one</p>
+<img src="C:\Users\zacha\OneDrive\Desktop\MATH ICT PT\onetoone.png" Height="150" Width="150" align="right"> 
+<p style="font-size:25px; color: white"><font face="arial">The set of ordered pairs in the given map is as follows: (2, a), (4,b), (6,c), (8,d).</p>
+<p style="font-size:25px; color: white"><font face="arial">Each X-coordinate is paired with a unique y-coordinate, which gives a one-to-one relationship. There is no repeated domain, and then this is a function.
+</p>
+<br><br>
+<p style="font-size:30px; color: white; text-align:left";><font face="arial"><b>Many-to-one</p>
+<img src="C:\Users\zacha\OneDrive\Desktop\MATH ICT PT\manytoone.png" Height="150" Width="150" align="right"> 
+<p style="font-size:25px; color: white"><font face="arial">The set of ordered pairs in the given map is as follows: {(3,2), (4,2), (9,2)}</p>
+<p style="font-size:25px; color: white"><font face="arial">The X-coordinates are paired with a single y-coordinate Each abscissa is unique, hence, this is a function.
+</p>
+<br><br>
+<p style="font-size:30px; color: white; text-align:left";><font face="arial"><b>One-to-many</p>
+<img src="C:\Users\zacha\OneDrive\Desktop\MATH ICT PT\onetomany.png" Height="150" Width="150" align="right"> 
+<p style="font-size:25px; color: white"><font face="arial">The set of ordered pairs given map is as follows: {(a,x), (a,y), (a,z)}</p>
+<p style="font-size:25px; color: white"><font face="arial">In this case, the x-coordinate is pained with three different y-coordinates making the abscissa not unique. This is just a relation and not a function.
+</p>
+<br><br>
+<font size="25px";color: white;text-align:center";><a href="file:///C:/Users/zacha/OneDrive/Desktop/MATH-ICT%20IPT.html">Back to Intro</a>
+</body>
+</html>
